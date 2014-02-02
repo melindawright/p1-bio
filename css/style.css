@@ -1,0 +1,35 @@
+
+body{
+  background-color:#127a6c;
+}
+
+
+img{
+  width:200px;
+}
+div{
+  background:url(http://bgfons.com/upload/bones_texture2469.jpg) ;
+  max-width:900px;
+  height: 300px;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  overflow: scroll;
+  box-shadow: -10px 10px 10px #333;
+  margin:200px;
+}
+h2{
+  font-weight: bold;
+  float:left;
+}
+img{
+  float:left;
+  width:200px;
+  margin-right: 30px;
+}
+p{
+  width:220px;
+  float:left;
+}
+br{
+  clear:left;
+}
